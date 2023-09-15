@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Glass Water Bottle",
+      "capacity": "500ml",
+      "material": "Glass",
+      "price": 10.99,
+      "image": "https://thumbs.dreamstime.com/b/bottle-water-12522351.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Stainless Steel Thermos",
+      "capacity": "750ml",
+      "material": "Stainless Steel",
+      "price": 19.99,
+      "image": "https://m.media-amazon.com/images/I/51T4Blusk1L._AC_SL1200_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Plastic Sports Bottle",
+      "capacity": "750ml",
+      "material": "Plastic",
+      "price": 5.99,
+      "image": "https://www.plentyofbikes.com/cdn/shop/products/6e40d96ce267bf8163647e34590f0ad4_1024x1024.jpg?v=1682712396"
+    },
+    {
+      "id": 4,
+      "name": "Ceramic Mug",
+      "capacity": "350ml",
+      "material": "Ceramic",
+      "price": 8.49,
+      "image": "https://homeandbeyond.com.bd/cdn/shop/products/Outline-in-gold-ceramic-mug-with-lid-spoon-tea-cup-kitten-coffee-ceramic-mugs-office-cup.jpg_640x640_b2e4bc63-51be-42fe-b3ef-dbbdc28595d3_409x.jpg?v=1617784970"
+    },
+    {
+      "id": 5,
+      "name": "Aluminum Flask",
+      "capacity": "500ml",
+      "material": "Aluminum",
+      "price": 12.99,
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": 6,
+      "name": "Glass Milk Bottle",
+      "capacity": "250ml",
+      "material": "Glass",
+      "price": 6.99,
+      "image": "https://www.thecarycompany.com/media/catalog/product/3/0/30wds4_1.jpg?quality=95&fit=bounds&height=700&width=700&canvas=700,700"
+    },
+    {
+      "id": 7,
+      "name": "Copper Water Bottle",
+      "capacity": "750ml",
+      "material": "Copper",
+      "price": 24.99,
+      "image": "https://m.media-amazon.com/images/I/51T4Blusk1L._AC_SL1200_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "BPA-Free Plastic Bottle",
+      "capacity": "500ml",
+      "material": "Plastic",
+      "price": 7.99,
+      "image": "https://m.media-amazon.com/images/I/51T4Blusk1L._AC_SL1200_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Vacuum Insulated Flask",
+      "capacity": "500ml",
+      "material": "Stainless Steel",
+      "price": 29.99,
+      "image": "https://m.media-amazon.com/images/I/51T4Blusk1L._AC_SL1200_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Reusable Glass Jar",
+      "capacity": "1 liter",
+      "material": "Glass",
+      "price": 14.99,
+      "image": "https://m.media-amazon.com/images/I/51T4Blusk1L._AC_SL1200_.jpg"
+    }
+  ]
+  
